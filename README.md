@@ -12,3 +12,11 @@ Papers Myx has read
 
 
 [arXiv 2021] **Bayesian Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2112.07823.pdf)
+
+
+[ICML 2021] **Graph Contrastive Learning Automated** [[paper]](https://arxiv.org/abs/2106.07594) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
+
+
+[NeurIPS 2021] **Adversarial Graph Augmentation to Improve Graph Contrastive Learning** [[paper]](https://arxiv.org/abs/2106.05819)[[code]](https://github.com/susheels/adgcl)
+
+
