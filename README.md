@@ -6,3 +6,6 @@ Papers Myx has read
 
 
 [WWW 2022] **Dual Space Graph Contrastive Learning** [[paper]](https://arxiv.org/pdf/2201.07409.pdf) TBC
+
+
+[WSDM 2022]**Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations** [[paper]](https://arxiv.org/abs/2201.01702) [[code]](https://github.com/Shen-Lab/GraphCL_Automated)
